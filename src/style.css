@@ -20,7 +20,7 @@ body {
 }
 
 .container__principal {
-    background-image: url("/alura-figma/assets/imgs/Background.png");
+    background-image: url("/assets/imgs/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
